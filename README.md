@@ -36,7 +36,7 @@ We remind the students that we adopt a very strict policy for handling dishonest
 
 #### Place and Time
 
-* Place: ZOOM. If the situation of COVID-19 improves substantially, we will use the room 1101 in the E3 building.
+* Place: ZOOM. If the situation of COVID-19 improves substantially, we will use the room 2111 in the E3 building.
 * Time: 1:00pm - 2:30pm on Monday and Wednesday from 31 August 2020 until 16 December 2020.
 
 #### Online Discussion
@@ -49,36 +49,24 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 ## 4. In-class Oral Tests
 
-We will run four in-class oral tests at ZOOM. During these tests, students will be randomly chosen and asked questions about some of topics covered by the course. For each test, if a student does not attend the test, she or he will get 0. We allocate 7.5% of the total marks to each test. The tests will be scheduled on the following dates:
+We will run four in-class oral tests using ZOOM. During these tests, students will be randomly chosen and asked questions about topics covered by the course. We allocate 7.5% of the total marks of the course to each test. If a student does not attend one of the tests, she or he will get 0 for that test. The four tests will be scheduled on the following dates:
 
-* 03/29(M) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
-* 04/19(M) (Midterm Exam Week) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
-* 05/17(M) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
-* 06/14(M) (Final Exam Week) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
+* 03/29(M) - In-class oral test at ZOOM from 1:00pm - 2:30pm.
+* 04/19(M) (Midterm Exam Week) - In-class oral test at ZOOM from 1:00pm - 2:30pm.
+* 05/17(M) - In-class oral test at ZOOM from 1:00pm - 2:30pm.
+* 06/14(M) (Final Exam Week) - In-class oral test at ZOOM from 1:00pm - 2:30pm.
 
-We use the following rules to run the above tests.
+We adopt the following policy for these tests.
 
-1. We do attendance check at 1:30pm, but if a student is called before but is absent, she or he will get 0.
-2. During test, students will be asked to answer questions over their microphones. Also, they will have to 
-turn on their cameras, at least when we do attendance check. Students are strongly advised to ensure that 
-their microphones and cameras work properly before these oral tests.
-3. Students do not have to answer in English, although questions will be posed in English.
+1. We do attendance check at 1:30pm, but if a student is called before this attendence check but is absent, she or he will get 0.
+2. In these tests, students will have to answer questions using their microphones. Also, they will have to 
+turn on their cameras, at least when we do attendance check. Thus, students are strongly advised to ensure that 
+their microphones and cameras work properly before these oral tests. If a student cannot use a microphone and a camera 
+because of a special circumstance, she or he has to explain the circumstance to the teaching staffs before the test
+and arrange a way to participate in the test.
+3. During these tests, students do not have to answer in English, although questions will be asked in English.
 
-## 5. Lecture Notes
-
-* Predicate Logic (Ch1) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note7.jpg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note8.jpg)).
-* The Simple Imperative Language (Ch2) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note6.jpg)).
-* Program Specification and Their Proofs (Ch3) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note4.jpg)).
-* Failure, Input-Output, and Continuation (Ch5) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note7.jpg)).
-* Transition Semantics (Ch6) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note5.jpeg)).
-* An Introduction to Category Theory (Tennent Ch8) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note5.jpeg)).
-* Recursively-Defined Domains (Tennent Ch10) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note8.jpeg), [note9](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note9.jpeg)).
-* The Lambda Calculus (Ch10) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note8.jpeg)).
-* An Eager Functional Language (Ch11) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note7.jpeg)).
-* Continuation in a Functional Language (Ch12) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note8.jpeg), [note9](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note9.jpeg), [note10](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note10.jpeg), [note11](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note11.jpeg), [note12](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note12.jpeg)).
-
-
-## 6. Tentative Plan
+## 5. Tentative Plan
 
 * __**03/01(M) - NO LECTURE. National Holiday.**__
 * 03/03(W) - __**[ZOOM Lecture]**__ Introduction. 
@@ -114,8 +102,49 @@ their microphones and cameras work properly before these oral tests.
 * 06/14(M) - __**[Oral Test]**__ ZOOM in-class oral test on Ch10, Ch11, and Ch12.
 * __**06/16(W) - NO LECTURE. Final Exam.**__
 
+## 6. Lecture Notes
 
-## 7. Studying Materials
+The recorded online lectures are based on the following hand-written notes, which summarise the contents of the textbooks. Reading the notes and solving exercisers in the notes is a recommended way to study the topics of the course.
+
+* Predicate Logic (Ch1) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note7.jpg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note8.jpg)).
+* The Simple Imperative Language (Ch2) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note6.jpg)).
+* Program Specification and Their Proofs (Ch3) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note4.jpg)).
+* Failure, Input-Output, and Continuation (Ch5) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note7.jpg)).
+* Transition Semantics (Ch6) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note5.jpeg)).
+* An Introduction to Category Theory (Tennent Ch8) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note5.jpeg)).
+* Recursively-Defined Domains (Tennent Ch10) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note8.jpeg), [note9](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note9.jpeg)).
+* The Lambda Calculus (Ch10) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note8.jpeg)).
+* An Eager Functional Language (Ch11) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture10/note7.jpeg)).
+* Continuation in a Functional Language (Ch12) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note8.jpeg), [note9](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note9.jpeg), [note10](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note10.jpeg), [note11](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note11.jpeg), [note12](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note12.jpeg)).
+
+## 7. Two Critical Surveys
+
+One important part of this course is to study assigned topics for oneself, and write surveys about them, which also contain critiques or original thoughts of the student. It accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has understood the topics well, carried out in-depth studies on the topics, and thought hard and originally about them. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (40%), and the demonstration of original thoughts and insights (40%). Here are the details of this assignments.
+
+1. Don't postpone this assignments until the last moment.
+2. There are two assignments. In both cases, a submission should be at most 3 pages not including bibliography.
+3. First assignment:
+   1. Topic: Concurrent separation logic.
+   2. Deadline: __**23:59 of the 28th of April in 2021 (Wednesday). Summit in KLMS.**__
+   3. Some references that may help you to start: 
+      1. Peter O'Hearn. [Resources, Concurrency, and Local Reasoning.](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/concurrency.pdf) This is the paper that started concurrent separation logic.
+      2. Stephen Brookes and Peter O'Hearn. [Concurrent Separation Logic.](https://dl.acm.org/doi/pdf/10.1145/2984450.2984457)
+      3. Peter O'Hearn. [Separation Logic.](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/pdf)
+      4. Peter O'Hearn, John Reynolds, and Hongseok Yang. [Local Reasoning about Programs that Alter Data Structures.](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/localreasoning.pdf) This paper describes one of the key ideas behind separation logic, called local reasoning.
+      5. Stephen Brookes. [A Semantics for Concurrent Separation Logic.](https://www.cs.cmu.edu/~brookes/papers/seplogicrevisedfinal.pdf)
+   4. Questions to think about:
+      1. What is separation logic? What is concurrent separation logic?
+      2. Which aspects of concurrent separation logic help construct the proofs of concurrent programs more easily?
+      3. What recent research results result from concurrent separation logic?
+      4. Can you find a new application where concurrent separation logic or its key ideas can be applied?
+      5. How would you improve concurrent separation logic?
+      6. If you want to show the termination (more generally liveness properties), how should you extend concurrent separation logic?
+4. Second assignment.
+   1. Topic: Select a paper in POPL'19, POPL'20, PLDI'19, and PLDI'20, and write a critical survey on a research topic or problem of the paper. Write a general survey on the topic, not just a particular result of the paper. Looking at the related work section of the paper will help you to find related work.
+   2. Deadline: __**23:59 of the 7th of June in 2021 (Monday). Submit in KLMS.**__
+
+
+## 8. Studying Materials
 
 We will mainly follow Reynolds's book, but study the materials appearing in Chapters 8 and 10 of Tennent's book.
 
@@ -133,27 +162,3 @@ The following classic papers or their recent reprints contain deep insight into 
 * John C. Reynolds, [Definitional Interpreters for Higher-Order Programming Languages](https://doi.org/10.1023/A:1010027404223), Higher-Order and Symbolic Computation, 1998. 
 * Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](https://dl.acm.org/citation.cfm?id=582176), POPL 1982.
 
-## 8. Two Critical Surveys
-
-One important part of this course is to study assigned topics for yourself, and write surveys about them, which also contain critiques or original thoughts of the student. It accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has understood the topics well, carried out in-depth studies on the topics, and thought hard and originally about them. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (40%), and the demonstration of original thoughts and insights (40%). Here are the details of this assignments.
-
-1. Don't postpone this assignments until the last moment.
-2. There are two assignments. In both cases, a submission should be at most 3 pages not including bibliography.
-3. First assignment:
-   1. Topic: Concurrent separation logic.
-   2. Deadline: __**23:59 of the 30th of October in 2020 (Friday). Summit in KLMS.**__
-   3. Some references that may help you to start: 
-      1. Peter O'Hearn. [Resources, Concurrency, and Local Reasoning.](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/concurrency.pdf) This is the paper that started concurrent separation logic.
-      2. Stephen Brookes and Peter O'Hearn. [Concurrent Separation Logic.](https://dl.acm.org/doi/pdf/10.1145/2984450.2984457)
-      3. Peter O'Hearn. [Separation Logic.](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/pdf)
-      4. Peter O'Hearn, John Reynolds, and Hongseok Yang. [Local Reasoning about Programs that Alter Data Structures.](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/localreasoning.pdf) This paper describes one of the key ideas behind separation logic, called local reasoning.
-      5. Stephen Brookes. [A Semantics for Concurrent Separation Logic.](https://www.cs.cmu.edu/~brookes/papers/seplogicrevisedfinal.pdf)
-   4. Questions to think about:
-      1. What is separation logic? What is concurrent separation logic?
-      2. Which aspects of concurrent separation logic help construct the proofs of concurrent programs more easily?
-      3. What recent research results result from concurrent separation logic?
-      4. Can you find a new application where concurrent separation logic or its key ideas can be applied?
-      5. How would you improve concurrent separation logic?
-      6. If you want to show the termination (more generally liveness properties), how should you extend concurrent separation logic?
-4. Second assignment.
-   1. Topic: Select a paper in POPL'19, POPL'20, PLDI'19, and PLDI'20, and write an in-depth review article about it.
