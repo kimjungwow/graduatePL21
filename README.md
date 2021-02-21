@@ -83,34 +83,34 @@ their microphones and cameras work properly before these oral tests.
 * __**03/01(M) - NO LECTURE. National Holiday.**__
 * 03/03(W) - [ZOOM Lecture] Introduction. 
 * 03/08(M) - Predicate Logic (Ch1). Watch two videos ([video1](https://youtu.be/EN954CkQmkY), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board3.png)) and ([video2](https://youtu.be/1REGT3U9Nxs), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board3.png), [whiteboard4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board4.png)). 
-* 03/10(W) - [ZOOM Q&A] Q&A session.
+* 03/10(W) - __**[Q&A]**__ ZOOM Q&A session.
 * 03/15(M) - Predicate Logic (Ch1) and The Simple Imperative Language (Ch2) (). Watch videos
-* 03/17(W) - [ZOOM Q&A] Q&A session.
+* 03/17(W) - __**[Q&A]**__ ZOOM Q&A session.
 * 03/22(M) - The Simple Imperative Language (Ch2). 
-* 03/24(W) - [ZOOM Q&A] Q&A session.
-* 03/29(M) - [ZOOM Oral Test] Test on Ch1 and Ch2. 
-* 03/31(W) - [ZOOM Q&A] Q&A session.
+* 03/24(W) - __**[Q&A]**__ ZOOM Q&A session.
+* 03/29(M) - __**[Oral Test]**__ ZOOM in-class oral test on Ch1 and Ch2. 
+* 03/31(W) - __**[Q&A]**__ ZOOM Q&A session.
 * 04/05(M) - Program Specification and Their Proofs (Ch3) and Failure, Input-Output, and Continuation (Ch5). 
-* 04/07(W) - [ZOOM Q&A] Q&A session.
+* 04/07(W) - __**[Q&A]**__ ZOOM Q&A session.
 * 04/12(M) - Failure, Input-Output, and Continuation (Ch5). 
-* 04/14(W) - [ZOOM Q&A] Q&A session.
-* 04/19(M) - [ZOOM Oral Test] Test on Ch3 and Ch5.
+* 04/14(W) - __**[Q&A]**__ ZOOM Q&A session.
+* 04/19(M) - __**[Oral Test]**__ ZOOM in-class oral test on Ch3 and Ch5.
 * __**04/21(W) - NO LECTURE. Midterm Exam.**__
 * 04/26(M) - Transition Semantics (Ch6) and An Introduction to Category Theory (Tennent Ch8).
-* 04/28(W) - [Q&A] Q&A ZOOM session at 1:00pm.
+* 04/28(W) - __**[Q&A]**__ ZOOM Q&A session at 1:00pm.
 * 05/03(M) - An Introduction to Category Theory (Tennent Ch8) and Recursively-Defined Domains (Tennent Ch10).
 * __**05/05(W) - NO LECTURE. National Holiday.**__
 * 05/10(M) - Recursively-Defined Domains (Tennent Ch10) and The Lambda Calculus (Ch10).
-* 05/12(W) - [Q&A] Q&A ZOOM session at 1:00pm.
-* 05/17(M) - [TEST] Test on Ch6.
+* 05/12(W) - __**[Q&A]**__ ZOOM Q&A session at 1:00pm.
+* 05/17(M) - __**[Oral Test]**__ ZOOM in-class oral test on Ch6, Tennent Ch8, and Tennent Ch10.
 * __**05/19(W) - NO LECTURE. National Holiday.**__
 * 05/24(M) - Tennent Ch8 and Tennent Ch10. The Lambda Calculus (Ch10).
-* 05/26(W) - [Q&A] Q&A ZOOM session at 1:00pm.
+* 05/26(W) - __**[Q&A]**__ ZOOM Q&A session at 1:00pm.
 * 05/31(M) - An Eager Functional Language (Ch11).
-* 06/02(W) - [Q&A] Q&A ZOOM session at 1:00pm.
+* 06/02(W) - __**[Q&A]**__ ZOOM Q&A session at 1:00pm.
 * 06/07(M) - Continuation in a Functional Language (Ch12).
-* 06/09(W) - [Q&A] Q&A ZOOM session at 1:00pm.
-* 06/14(M) - [TEST] Test on Ch10, Ch11, Ch12.
+* 06/09(W) - __**[Q&A]**__ ZOOM Q&A session at 1:00pm.
+* 06/14(M) - __**[Oral Test]**__ ZOOM in-class oral test on Ch10, Ch11, and Ch12.
 * __**06/16(W) - NO LECTURE. Final Exam.**__
 
 
