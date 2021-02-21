@@ -51,34 +51,36 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 * __**03/01(M) - NO LECTURE. National Holiday.**__
 * 03/03(W) - [ZOOM] Introduction. ZOOM lecture at 1:00pm.
-* 03/08(M) - [YouTube] Predicate Logic (Ch1).
-* 03/10(W) - [ZOOM] Q&A ZOOM session from 1:00pm - 2:30pm.
-* 03/15(M) - [YouTube] Predicate Logic (Ch1) and The Simple Imperative Language (Ch2). 
-* 03/17(W) - [ZOOM] Q&A ZOOM session from 1:00pm - 2:30pm.
-* 03/22(M) - [YouTube] The Simple Imperative Language (Ch2). 
-* 03/24(W) - [ZOOM] Q&A ZOOM session from 1:00pm - 2:30pm.
-* 03/29(M) - [YouTube] Program Specification and Their Proofs (Ch3). 
-* 03/31(W) - [ZOOM] Q&A ZOOM session from 1:00pm - 2:30pm.
-* 04/05(M) - [YouTube] 
-* 04/07(W) - [ZOOM] Q&A ZOOM session from 1:00pm - 2:30pm.
-* 04/12(M) - [YouTube] 
-* 04/14(W) - [ZOOM] Q&A ZOOM session from 1:00pm - 2:30pm.
-* __**04/19(M), 04/21(W) - NO LECTURES. Midterm Exam.**__
-* 04/26(M) - [YouTube] 
-* 04/28(W) - [ZOOM] Q&A ZOOM session from 1:00pm - 2:30pm.
-* __**05/03(M) - [ZOOM]**__ Q&A ZOOM session from 1:00pm - 2:30pm.
+* 03/08(M) - Predicate Logic (Ch1).
+* 03/10(W) - [ZOOM] Q&A ZOOM session at 1:00pm.
+* 03/15(M) - Predicate Logic (Ch1) and The Simple Imperative Language (Ch2). 
+* 03/17(W) - [ZOOM] Q&A ZOOM session at 1:00pm.
+* 03/22(M) - The Simple Imperative Language (Ch2). 
+* 03/24(W) - [ZOOM] Q&A ZOOM session at 1:00pm.
+* 03/29(M) - [Oral Test] In-class oral test at ZOOM from 1:00pm - 3:45pm.
+* 03/31(W) - [ZOOM] Q&A ZOOM session at 1:00pm.
+* 04/05(M) - 
+* 04/07(W) - [ZOOM] Q&A ZOOM session at 1:00pm.
+* 04/12(M) - 
+* 04/14(W) - [ZOOM] Q&A ZOOM session at 1:00pm.
+* 04/19(M) - [Oral Test] In-class oral test at ZOOM from 1:00pm - 3:45pm.
+* __**04/21(W) - NO LECTURE. Midterm Exam.**__
+* 04/26(M) - 
+* 04/28(W) - [ZOOM] Q&A ZOOM session at 1:00pm.
+* 05/03(M) - 
 * __**05/05(W) - NO LECTURE. National Holiday.**__
-* 05/10(M) - [YouTube] 
-* 05/12(W) - [ZOOM] Q&A ZOOM session from 1:00pm - 2:30pm.
-* __**05/17(M) - [ZOOM]**__ Q&A ZOOM session from 1:00pm - 2:30pm.
+* 05/10(M) - 
+* 05/12(W) - [ZOOM] Q&A ZOOM session at 1:00pm.
+* 05/17(M) - [Oral Test] In-class oral test at ZOOM from 1:00pm - 3:45pm.
 * __**05/19(W) - NO LECTURE. National Holiday.**__
-* 05/24(M) - [YouTube] 
-* 05/26(W) - [ZOOM] Q&A ZOOM session from 1:00pm - 2:30pm.
-* 05/31(M) - [YouTube] 
-* 06/02(W) - [ZOOM] Q&A ZOOM session from 1:00pm - 2:30pm.
-* 06/07(M) - [YouTube] 
-* 06/09(W) - [ZOOM] Q&A ZOOM session from 1:00pm - 2:30pm.
-* __**06/14(M), 06/16(W) - NO LECTURES. Final Exam.**__
+* 05/24(M) - 
+* 05/26(W) - [ZOOM] Q&A ZOOM session at 1:00pm.
+* 05/31(M) - 
+* 06/02(W) - [ZOOM] Q&A ZOOM session at 1:00pm.
+* 06/07(M) - 
+* 06/09(W) - [ZOOM] Q&A ZOOM session at 1:00pm.
+* 06/14(M) - [ZOOM] In-class oral test from 1:00pm - 3:45pm.
+* __**06/16(W) - NO LECTURE. Final Exam.**__
 
 
 * 08/31 - Introduction. ([video](https://youtu.be/P-LMOxZm2LA), [slides](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture1/Lecture1.pdf))
