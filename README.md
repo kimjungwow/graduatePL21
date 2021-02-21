@@ -56,6 +56,8 @@ We will run four in-class oral tests at ZOOM. During these tests, students will 
 * 05/17(M) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
 * 06/14(M) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
 
+We use the following rules to run the above tests.
+
 1. We do attendance check at 1:30pm, but if a student is called before but is absent, she or he will get 0.
 2. During test, students will be asked to answer questions over their microphones. Also, they will have to 
 turn on their cameras, at least when we do attendance check. Students are strongly advised to ensure that 
@@ -66,36 +68,35 @@ their microphones and cameras work properly before these oral tests.
 
 * __**03/01(M) - NO LECTURE. National Holiday.**__
 * 03/03(W) - [ZOOM Lecture] Introduction. 
-* 03/08(M) - Watch videos on parts 1 and 2 of Predicate Logic (Ch1). ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note7.jpg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note8.jpg)). ([video1](https://youtu.be/EN954CkQmkY), [video2](https://youtu.be/1REGT3U9Nxs), [whiteboard1-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board1.png), [whiteboard2-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board2.png), [whiteboard3-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board3.png), [whiteboard1-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board1.png), [whiteboard2-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board2.png), [whiteboard3-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board3.png), [whiteboard4-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board4.png)). 
-* 03/10(W) - [ZOOM Q&A] Q&A session on parts 1 and 2 of Predicate Logic (Ch1). 
-* 03/15(M) - Watch videos on part 3 of Predicate Logic (Ch1) and part 1 of The Simple Imperative Language (Ch2). ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/note6.jpg)). ([video1](https://youtu.be/hfCASCzh9jA), [video2](https://youtu.be/ZyLgJrNWrf0), [whiteboard1-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep9Board1.png), [whiteboard2-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep9Board2.png), [whiteboard3-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep9Board3.png), [whiteboard4-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep9Board4.png), [whiteboard1-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep14Board1.png), [whiteboard2-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep14Board2.png), [whiteboard3-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep14:16Board1.png), [whiteboard4-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep14:16Board2.png), [whiteboard5-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep14:16Board3.png), [whiteboard6-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep14:16Board4.png)).
-* 03/17(W) - [ZOOM Q&A] Q&A session on part 3 of Predicate Logic (Ch1) and part 1 of The Simple Imperative Language (Ch2). 
-* 03/22(M) - Watch videos on parts 2 and 3 of The Simple Imperative Language (Ch2). ([video1](https://youtu.be/qic3cqm991E), [video2](https://youtu.be/4QT_wb-rDtY), [whiteboard1-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep14:16Board1.png), [whiteboard2-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep14:16Board2.png), [whiteboard3-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep14:16Board3.png), [whiteboard4-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep14:16Board4.png), [whiteboard1-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep21Board1.png), [whiteboard2-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep21Board2.png), [whiteboard3-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep21Board3.png), [whiteboard4-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep21Board4.png)).
-* 03/24(W) - [ZOOM Q&A] Q&A session on parts 2 and 3 of The Simple Imperative Language (Ch2).
-* 03/29(M) - [ZOOM Oral Test] Test on Ch1 and Ch2. Watch videos on part 4 of The Simple Imperative Language (Ch2) and 
-Program Specification and Their Proofs (Ch3). ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/note4.jpg)). ([video1](https://youtu.be/mbt6UEZOfCo), [video2](https://youtu.be/EUjqhHElKLI), [whiteboard1-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep23Board1.png), [whiteboard2-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep23Board2.png), [whiteboard3-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep23Board3.png), [whiteboard4-video1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture3/Sep23Board4.png), [whiteboard1-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/Sep28Board1.png), [whiteboard2-video2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture4/Sep28Board2.png))
-* 03/31(W) - [ZOOM Q&A] Q&A ZOOM session on part 4 of The Simple Imperative Language (Ch2) and Program Specification and Their Proofs (Ch3).
-* 04/05(M) -
-* 04/07(W) - [ZOOM Q&A] Q&A ZOOM session at 1:00pm.
-* 04/12(M) - 
-* 04/14(W) - [ZOOM Q&A] Q&A ZOOM session at 1:00pm.
-* 04/19(M) - [ZOOM Oral Test] In-class oral test at ZOOM from 1:00pm - 2:15pm.
+* 03/08(M) - Predicate Logic (Ch1). Watch videos for 09/02 and 09/07 in https://github.com/hongseok-yang/graduatePL20.
+* 03/10(W) - [ZOOM Q&A] Q&A session.
+* 03/15(M) - Predicate Logic (Ch1) and The Simple Imperative Language (Ch2). 
+* 03/17(W) - [ZOOM Q&A] Q&A session.
+* 03/22(M) - The Simple Imperative Language (Ch2). 
+* 03/24(W) - [ZOOM Q&A] Q&A session.
+* 03/29(M) - [ZOOM Oral Test] Test on Ch1 and Ch2. 
+* 03/31(W) - [ZOOM Q&A] Q&A session.
+* 04/05(M) - Program Specification and Their Proofs (Ch3) and Failure, Input-Output, and Continuation (Ch5). 
+* 04/07(W) - [ZOOM Q&A] Q&A session.
+* 04/12(M) - Failure, Input-Output, and Continuation (Ch5). 
+* 04/14(W) - [ZOOM Q&A] Q&A session.
+* 04/19(M) - [ZOOM Oral Test] Test on Ch3 and Ch5.
 * __**04/21(W) - NO LECTURE. Midterm Exam.**__
-* 04/26(M) - 
+* 04/26(M) - Transition Semantics (Ch6) and An Introduction to Category Theory (Tennent Ch8).
 * 04/28(W) - [Q&A] Q&A ZOOM session at 1:00pm.
-* 05/03(M) - 
+* 05/03(M) - An Introduction to Category Theory (Tennent Ch8) and Recursively-Defined Domains (Tennent Ch10).
 * __**05/05(W) - NO LECTURE. National Holiday.**__
-* 05/10(M) - 
+* 05/10(M) - Recursively-Defined Domains (Tennent Ch10) and The Lambda Calculus (Ch10).
 * 05/12(W) - [Q&A] Q&A ZOOM session at 1:00pm.
-* 05/17(M) - [TEST] In-class oral test at ZOOM from 1:00pm - 2:15pm.
+* 05/17(M) - [TEST] Test on Ch6.
 * __**05/19(W) - NO LECTURE. National Holiday.**__
-* 05/24(M) - 
+* 05/24(M) - Tennent Ch8 and Tennent Ch10. The Lambda Calculus (Ch10).
 * 05/26(W) - [Q&A] Q&A ZOOM session at 1:00pm.
-* 05/31(M) - 
+* 05/31(M) - An Eager Functional Language (Ch11).
 * 06/02(W) - [Q&A] Q&A ZOOM session at 1:00pm.
-* 06/07(M) - 
+* 06/07(M) - Continuation in a Functional Language (Ch12).
 * 06/09(W) - [Q&A] Q&A ZOOM session at 1:00pm.
-* 06/14(M) - [TEST] In-class oral test at ZOOM from 1:00pm - 2:15pm.
+* 06/14(M) - [TEST] Test on Ch10, Ch11, Ch12.
 * __**06/16(W) - NO LECTURE. Final Exam.**__
 
 
