@@ -52,9 +52,9 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 We will run four in-class oral tests at ZOOM. During these tests, students will be randomly chosen and asked questions about some of topics covered by the course. For each test, if a student does not attend the test, she or he will get 0. We allocate 7.5% of the total marks to each test. The tests will be scheduled on the following dates:
 
 * 03/29(M) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
-* 04/19(M) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
+* 04/19(M) (Midterm Exam Week) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
 * 05/17(M) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
-* 06/14(M) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
+* 06/14(M) (Final Exam Week) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
 
 We use the following rules to run the above tests.
 
@@ -97,11 +97,11 @@ their microphones and cameras work properly before these oral tests.
 * 04/14(W) - __**[Q&A]**__ ZOOM Q&A session.
 * 04/19(M) - __**[Oral Test]**__ ZOOM in-class oral test on Ch3 and Ch5.
 * __**04/21(W) - NO LECTURE. Midterm Exam.**__
-* 04/26(M) - Transition Semantics (Ch6) and An Introduction to Category Theory (Tennent Ch8).
+* 04/26(M) - Transition Semantics (Ch6) and An Introduction to Category Theory (Tennent Ch8). Watch two videos: ([video](https://youtu.be/v7YR2ZaTon8), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/Oct26Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/Oct26Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/Oct26Board3.png)) and ([video](https://youtu.be/61M3KFwQ2uA), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Oct28Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Oct28Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Oct28Board3.png)).
 * 04/28(W) - __**[Q&A]**__ ZOOM Q&A session at 1:00pm.
-* 05/03(M) - An Introduction to Category Theory (Tennent Ch8) and Recursively-Defined Domains (Tennent Ch10).
+* 05/03(M) - An Introduction to Category Theory (Tennent Ch8) and Recursively-Defined Domains (Tennent Ch10). Watch two videos: ([video](https://youtu.be/3FaJHv-jf1A), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Nov2Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Nov2Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Nov2Board3.png)) and ([video](https://youtu.be/N56Obu9BJjs), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/Nov4Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/Nov4Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/Nov4Board3.png)).
 * __**05/05(W) - NO LECTURE. National Holiday.**__
-* 05/10(M) - Recursively-Defined Domains (Tennent Ch10) and The Lambda Calculus (Ch10).
+* 05/10(M) - Recursively-Defined Domains (Tennent Ch10) and The Lambda Calculus (Ch10). Watch two videos: ([video](https://youtu.be/dFRoM8747dY), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/Nov9Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/Nov9Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/Nov9Board3.png)) and ([video](https://youtu.be/KEuyKvFkhGk), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/Nov11Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/Nov11Board2.png)).
 * 05/12(W) - __**[Q&A]**__ ZOOM Q&A session at 1:00pm.
 * 05/17(M) - __**[Oral Test]**__ ZOOM in-class oral test on Ch6, Tennent Ch8, and Tennent Ch10.
 * __**05/19(W) - NO LECTURE. National Holiday.**__
