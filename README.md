@@ -68,9 +68,10 @@ their microphones and cameras work properly before these oral tests.
 
 * __**03/01(M) - NO LECTURE. National Holiday.**__
 * 03/03(W) - [ZOOM Lecture] Introduction. 
-* 03/08(M) - Predicate Logic (Ch1). Watch videos for 09/02 and 09/07 in https://github.com/hongseok-yang/graduatePL20.
+* 03/08(M) - Predicate Logic (Ch1) ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note7.jpg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note8.jpg)).
+Watch two videos ([video1](https://youtu.be/EN954CkQmkY), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board3.png)) and (([video2](https://youtu.be/1REGT3U9Nxs), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board3.png), [whiteboard4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board4.png)). 
 * 03/10(W) - [ZOOM Q&A] Q&A session.
-* 03/15(M) - Predicate Logic (Ch1) and The Simple Imperative Language (Ch2). 
+* 03/15(M) - Predicate Logic (Ch1) and The Simple Imperative Language (Ch2). Watch videos
 * 03/17(W) - [ZOOM Q&A] Q&A session.
 * 03/22(M) - The Simple Imperative Language (Ch2). 
 * 03/24(W) - [ZOOM Q&A] Q&A session.
