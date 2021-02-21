@@ -38,8 +38,8 @@ We remind the students that we adopt a very strict policy for handling dishonest
 
 * Place: ZOOM. 
 * Q&A sessions: 1:00pm - 2:30pm on Wednesday every week. Look at "5. Tentative Plan".
-* Four in-class oral tests: Four Mondays, with two scheduled during the mid-term and final exam periods. Look at "4. In-class Oral Tests".
-* Recorded online lectures in Youtube: The schedule to watch these lectures and the links to them can be found in "5. Tentative Plan".
+* In-class oral tests: Four sessions on chosen Mondays, with two scheduled during the mid-term and final exam periods. Look at "4. In-class Oral Tests".
+* Recorded lectures: Online lectures available from Youtube. The schedule to watch these lectures and the links to them can be found in "5. Tentative Plan".
 
 #### Online Discussion
 
