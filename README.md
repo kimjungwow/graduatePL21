@@ -49,6 +49,38 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 ## 4. Tentative Plan
 
+* __**03/01(M) - NO LECTURE. National Holiday.**__
+* 03/03(W) -
+* 03/08(M) -
+* 03/10(W) - 
+* 03/15(M) -
+* 03/17(W) -
+* 03/22(M) -
+* 03/24(W) -
+* 03/29(M) -
+* 03/31(W) -
+* 04/05(M) -
+* 04/07(W) -
+* 04/12(M) -
+* 04/14(W) -
+* __**04/19(M), 04/21(W) - NO LECTURES. Midterm Exam.**__
+* 04/26(M) -
+* 04/28(W) -
+* 05/03(M) -
+* __**05/05(W) - NO LECTURE. National Holiday.**__
+* 05/10(M) -
+* 05/12(W) -
+* 05/17(M) -
+* __**05/19(W) - NO LECTURE. National Holiday.**__
+* 05/24(M) -
+* 05/26(W) -
+* 05/31(M) -
+* 06/02(W) -
+* 06/07(M) -
+* 06/09(W) -
+* __**06/14(M), 06/16(W) - NO LECTURES. Final Exam.**__
+
+
 * 08/31 - Introduction. ([video](https://youtu.be/P-LMOxZm2LA), [slides](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture1/Lecture1.pdf))
 * 09/02 - Predicate Logic (Ch1). ([video](https://youtu.be/EN954CkQmkY), [note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note7.jpg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/note8.jpg), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board3.png))
 * 09/07 - Predicate Logic (Ch1). ([video](https://youtu.be/1REGT3U9Nxs), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board3.png), [whiteboard4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board4.png))
