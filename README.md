@@ -36,8 +36,10 @@ We remind the students that we adopt a very strict policy for handling dishonest
 
 #### Place and Time
 
-* Place: ZOOM. If the situation of COVID-19 improves substantially, we will use the room 2111 in the E3 building.
-* Time: 1:00pm - 2:30pm on Monday and Wednesday from 31 August 2020 until 16 December 2020.
+* Place: ZOOM. 
+* Q&A sessions: 1:00pm - 2:30pm on Wednesday every week. Look at "5. Tentative Plan".
+* Four in-class oral tests: Four Mondays, with two scheduled during the mid-term and final exam periods. Look at "4. In-class Oral Tests".
+* Recorded online lectures in Youtube: The schedule to watch these lectures and the links to them can be found in "5. Tentative Plan".
 
 #### Online Discussion
 
@@ -140,7 +142,7 @@ One important part of this course is to study assigned topics for oneself, and w
       5. How would you improve concurrent separation logic?
       6. If you want to show the termination (more generally liveness properties), how should you extend concurrent separation logic?
 4. Second assignment.
-   1. Topic: Select a paper in POPL'19, POPL'20, PLDI'19, and PLDI'20, and write a critical survey on a research topic or problem of the paper. Write a general survey on the topic, not just a particular result of the paper. Looking at the related work section of the paper will help you to find related work.
+   1. Topic: Select a paper in POPL'19, POPL'20, PLDI'19, and PLDI'20, and write a critical survey on a research topic or problem of the paper. Write a general survey on the topic, not just a particular result of the paper. Looking at the related work section of the paper will help you to find related work. PLDI and POPL are two major international conferences in programming languages.
    2. Deadline: __**23:59 of the 7th of June in 2021 (Monday). Submit in KLMS.**__
 
 
