@@ -133,7 +133,7 @@ The following classic papers or their recent reprints contain deep insight into 
 * John C. Reynolds, [Definitional Interpreters for Higher-Order Programming Languages](https://doi.org/10.1023/A:1010027404223), Higher-Order and Symbolic Computation, 1998. 
 * Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](https://dl.acm.org/citation.cfm?id=582176), POPL 1982.
 
-## 5. Two Critical Surveys
+## 8. Two Critical Surveys
 
 One important part of this course is to study assigned topics for yourself, and write surveys about them, which also contain critiques or original thoughts of the student. It accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has understood the topics well, carried out in-depth studies on the topics, and thought hard and originally about them. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (40%), and the demonstration of original thoughts and insights (40%). Here are the details of this assignments.
 
