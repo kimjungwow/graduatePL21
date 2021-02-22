@@ -142,7 +142,7 @@ One important part of this course is to study assigned topics for oneself, and w
       5. How would you improve concurrent separation logic?
       6. If you want to show the termination (more generally liveness properties), how should you extend concurrent separation logic?
 4. Second assignment.
-   1. Topic: Select a paper in POPL'19, POPL'20, PLDI'19, and PLDI'20, and write a critical survey on a research topic or problem of the paper. Write a general survey on the topic, not just a particular result of the paper. Looking at the related work section of the paper will help you to find related work. PLDI and POPL are two major international conferences in programming languages.
+   1. Topic: Select a paper in POPL'19, POPL'20, POPL'21, PLDI'19, and PLDI'20, and write a critical survey on a research topic or problem of the paper. Write a general survey on the topic, not just a particular result of the paper. Looking at the related work section of the paper will help you to find related work. PLDI and POPL are two major international conferences in programming languages.
    2. Deadline: __**23:59 of the 7th of June in 2021 (Monday). Submit in KLMS.**__
 
 
