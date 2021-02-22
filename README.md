@@ -120,7 +120,7 @@ The recorded online lectures are based on the following hand-written notes, whic
 
 ## 7. Two Critical Surveys
 
-One important part of this course is to study assigned topics for oneself, and write surveys about them, which also contain critiques or original thoughts of the student. It accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has understood the topics well, carried out in-depth studies on the topics, and thought hard and originally about them. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (40%), and the demonstration of original thoughts and insights (40%). Here are the details of this assignments.
+One important part of this course is to study assigned topics for oneself, and write surveys about them, which also contain critiques or original thoughts of the student. This assignment accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has understood the topics well, carried out in-depth studies on the topics, and thought hard and originally about them. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (40%), and the demonstration of original thoughts and insights (40%). Here are the details of this assignment.
 
 1. Don't postpone this assignments until the last moment.
 2. There are two assignments. In both cases, a submission should be at most 3 pages not including bibliography.
