@@ -20,7 +20,7 @@ We will adopt the following scheme for handling late submissions for homework as
 
 #### [February 21] Honour code.
 
-We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for any assignment, he or she will get F.
+We adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for any assignment, he or she will get F.
 
 ## 2. Logistics
 
