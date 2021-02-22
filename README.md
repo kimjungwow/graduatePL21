@@ -145,7 +145,7 @@ One important part of this course is to study assigned topics for oneself, and w
    2. Deadline: __**23:59 of the 7th of June in 2021 (Monday). Submit in KLMS.**__
 
 
-## 8. Studying Materials
+## 8. Study Materials
 
 We will mainly follow Reynolds's book, but study the materials appearing in Chapters 8 and 10 of Tennent's book.
 
